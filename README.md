@@ -1,6 +1,9 @@
 # animation_login
 
-A new Flutter project.
+| ![rotate_auth_screen](https://user-images.githubusercontent.com/40641142/203151343-f7a9c147-9acc-455a-bf93-5b8dee5ba70a.gif) |
+| :------------: | 
+| ** Rotate auth screen ui ** |
+
 
 ## Getting Started
 
